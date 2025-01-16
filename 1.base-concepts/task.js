@@ -11,9 +11,6 @@ function solveEquation(a, b, c) {
     let x1 = -b/(2*a);
     arr = [x1]
   }
-  else {
-    arr = []
-  }
   return arr;
 }
 
